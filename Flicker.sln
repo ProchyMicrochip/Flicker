@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flicker.Library", "Flicker.Library\Flicker.Library.csproj", "{559EE05C-D3A7-4559-8E0C-AA50629CA5AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flicker.Tests", "Flicker.Tests\Flicker.Tests.csproj", "{45F23987-3CA6-42FD-862A-D8E34F38FB33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{559EE05C-D3A7-4559-8E0C-AA50629CA5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559EE05C-D3A7-4559-8E0C-AA50629CA5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559EE05C-D3A7-4559-8E0C-AA50629CA5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559EE05C-D3A7-4559-8E0C-AA50629CA5AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45F23987-3CA6-42FD-862A-D8E34F38FB33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F23987-3CA6-42FD-862A-D8E34F38FB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F23987-3CA6-42FD-862A-D8E34F38FB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F23987-3CA6-42FD-862A-D8E34F38FB33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
